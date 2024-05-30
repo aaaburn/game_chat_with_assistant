@@ -1,1 +1,1 @@
-# game_chat_with_assistant
+Quick of implementation of TinyLlama-1.1B-Chat from Huggingface.
